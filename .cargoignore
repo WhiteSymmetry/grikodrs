@@ -1,0 +1,32 @@
+# Build artefacts
+target/
+**/target/
+
+# Git
+.git/
+.gitignore
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Python / misc
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# Large or irrelevant files
+*.log
+*.tmp
+*.swp
+

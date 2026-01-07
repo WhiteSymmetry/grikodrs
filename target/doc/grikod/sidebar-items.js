@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["InvalidBinaryError"],"fn":["ikili_2_gri_kod"]};
