@@ -23,7 +23,7 @@
 “A Rust library that converts binary-represented numbers into Gray code using the standard formula ( n \oplus (n \gg 1) ), preserving bit length and providing validated, safe input handling.”
 
 
-## Türkçe
+## 🇹🇷 Türkçe
 
 “Standart Gray kod tanımına göre ikili (binary) gösterimdeki sayıları Gray koda dönüştüren, giriş doğrulaması ve hata yönetimi sağlayan güvenli bir Rust kütüphanesi.”
 
