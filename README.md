@@ -1,14 +1,5 @@
 # GriKod: A safe Rust library implementing the standard Gray code conversion.
 
----
-
-![RUST Version](https://img.shields.io/badge/rust-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Version](https://img.shields.io/badge/version-0.1.0-orange)
-![Status](https://img.shields.io/badge/status-production--ready-brightgreen)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Open%20Source-brightgreen.svg)](https://opensource.org/)
-
----
 # `grikod` &emsp; [![Build Status]][actions] [![Latest Version]][crates.io] [![Api Rustdoc]][rustdoc] [![Rust](https://img.shields.io/badge/rust-1.85%2B-blue.svg?maxAge=3600)](https://github.com/WhiteSymmetry/grikodrs)
 
 [Build Status]: https://github.com/WhiteSymmetry/grikodrs/workflows/grikodrs/badge.svg
@@ -17,6 +8,15 @@
 [crates.io]: https://crates.io/crates/grikod
 [Api Rustdoc]: https://img.shields.io/badge/api-rustdoc-blue.svg
 [rustdoc]: https://docs.rs/grikod
+
+![RUST Version](https://img.shields.io/badge/rust-1.85%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Version](https://img.shields.io/badge/version-0.1.0-orange)
+![Status](https://img.shields.io/badge/status-production--ready-brightgreen)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Open%20Source-brightgreen.svg)](https://opensource.org/)
+
+---
+
 
 ## English
 
