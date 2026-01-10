@@ -9,6 +9,14 @@
 [![Open Source](https://img.shields.io/badge/Open%20Source-Open%20Source-brightgreen.svg)](https://opensource.org/)
 
 ---
+# `grikod` &emsp; [![Build Status]][actions] [![Latest Version]][crates.io] [![Api Rustdoc]][rustdoc] [![Rust](https://img.shields.io/badge/rust-1.85%2B-blue.svg?maxAge=3600)](https://github.com/WhiteSymmetry/grikodrs)
+
+[Build Status]: https://github.com/WhiteSymmetry/grikodrs/workflows/grikodrs/badge.svg
+[actions]: https://github.com/WhiteSymmetry/grikodrs
+[Latest Version]: https://img.shields.io/crates/v/grikod.svg
+[crates.io]: https://crates.io/crates/grikod
+[Api Rustdoc]: https://img.shields.io/badge/api-rustdoc-blue.svg
+[rustdoc]: https://docs.rs/grikod
 
 ## English
 
