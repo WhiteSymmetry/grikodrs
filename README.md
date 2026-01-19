@@ -15,6 +15,8 @@
 ![Status](https://img.shields.io/badge/status-production--ready-brightgreen)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Open%20Source-brightgreen.svg)](https://opensource.org/)
 
+<a href="https://crates.io/crates/grikod"><img alt="Crates.io" src="https://img.shields.io/crates/v/grikod?style=for-the-badge&color=00d9ff"></a>
+
 ---
 
 
